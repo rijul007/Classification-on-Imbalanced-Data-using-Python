@@ -4,7 +4,7 @@
 This project aims to develop a classification model on an imbalanced dataset. The primary goal is to handle the challenges associated with imbalanced class distribution, particularly in predicting the minority class effectively.
 
 ## Dataset Used
-The dataset used for this project contains insurance policy records, including customer demographics, vehicle details, and the `claim_status` target variable. The data has 58,592 entries and 41 columns, with a significant imbalance between the classes (claims vs. no claims).
+The dataset used for this project is from [Statso](https://statso.io/training-models-on-imbalanced-data-case-study/). It contains insurance policy records, including customer demographics, vehicle details, and the `claim_status` target variable. The data has 58,592 entries and 41 columns, with a significant imbalance between the classes (claims vs. no claims).
 
 ## Analysis Technique
 To address the class imbalance, the following techniques were used extensively throughout the analysis:
@@ -27,3 +27,4 @@ To address the class imbalance, the following techniques were used extensively t
 
 ## Result
 The model achieved a balanced F1-Score, indicating an effective handling of the minority class. Precision and recall metrics showed a significant improvement after balancing the dataset.
+The detailed results and analysis can be found in the [Jupyter Notebook here](https://nbviewer.org/gist/rijul007/94fab12ca87d1ddb1ddbe32b6e34704e)
