@@ -27,4 +27,4 @@ To address the class imbalance, the following techniques were used extensively t
 
 ## Result
 The model achieved a balanced F1-Score, indicating an effective handling of the minority class. Precision and recall metrics showed a significant improvement after balancing the dataset.
-The detailed results and analysis can be found in the [Jupyter Notebook here](https://nbviewer.org/gist/rijul007/94fab12ca87d1ddb1ddbe32b6e34704e)
+The detailed results and analysis can be found in the [Jupyter Notebook here](https://nbviewer.org/gist/rijul007/94fab12ca87d1ddb1ddbe32b6e34704e).
